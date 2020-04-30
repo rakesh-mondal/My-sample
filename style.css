@@ -10,3 +10,7 @@ h1 {
     font-size: 3.2em;
     color: blue;
 }
+.image-wrapper {
+    padding: 16px;
+    background-color: blueviolet;
+}
