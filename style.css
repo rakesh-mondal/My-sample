@@ -39,5 +39,8 @@ h1.top {
     background-image: url("https://www.rd.com/wp-content/uploads/2019/04/shutterstock_1013848126.jpg");
     background-position: center;
     font-size: 2em;
+    font-weight: 800;
+    font-style: italic;
+    text-align: center;
     color: cornsilk;
 }
